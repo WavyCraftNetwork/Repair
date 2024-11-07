@@ -1,0 +1,9 @@
+name: Repair
+version: 1.0.0
+author: WavyCraft
+api: 5.0.0
+main: wavycraft\repair\Loader
+
+permissions:
+  repair.cmd:
+    default: true
